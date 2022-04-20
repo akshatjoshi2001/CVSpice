@@ -14,3 +14,6 @@ Then install Flask
 
 
 
+**My contributions to the project** :
+1. Developed a novel algorithm based on Breadth First Search to do mapping from component terminals to electrical voltage nodes
+2. Developed the GUI which renders the circuit using the draw2d JS library based on the obtained circuit netlist
